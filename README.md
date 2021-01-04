@@ -8,5 +8,7 @@ Whether a customer from retail bank asks some loan, the bank uses statistical mo
 
 In the other hand, customers from Wholesale Banks are Large Corporate or Middle Market and when these customers ask some loan like working capital, analysts from Wholesale Banks evaluate some financial statements and balance sheet to approve or deny a loan.
 
+![](https://media.giphy.com/media/xT5LMQ8rHYTDGFG07e/giphy.gif)
+
 In this project, a statistical model (credit score) will be developed using Logistic Regression.
 
