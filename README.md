@@ -12,7 +12,7 @@ Doing some comparison, It looks like a assembly line from a factory that produce
 
 In the other hand, customers from Wholesale Banks are Large Corporate or Middle Market and when these customers ask some loan like working capital, analysts from Wholesale Banks evaluate some financial statements and balance sheet to approve or deny a loan.
 
-![](https://tenor.com/view/loan-loan-approval-bank-loan-gif-13765529)
+![](https://media1.tenor.com/images/cb39c6851240eda84694c00000379f5d/tenor.gif?itemid=13765529)
 
 In this project, a statistical model (credit score) will be developed using Logistic Regression.
 
