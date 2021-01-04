@@ -4,11 +4,18 @@
 
 Customers' behavior from retail bank is completely different of wholesale bank. 
 
-Whether a customer from retail bank asks some loan, the bank uses statistical models (credit score) to approve it or not.  Doing some comparison, It looks like a production line from a factory that produce the same part millions of times per hour with the same qualities and standards.
+Whether a customer from retail bank asks some loan, the bank uses statistical models (credit score) to approve it or not. 
+
+![](https://gfycat.com/frankbrilliantblackcrappie)
+
+Doing some comparison, It looks like a assembly line from a factory that produce the same part millions of times per hour with the same qualities and standards. If a part is outside of standards it will be discharged.
+
+
 
 In the other hand, customers from Wholesale Banks are Large Corporate or Middle Market and when these customers ask some loan like working capital, analysts from Wholesale Banks evaluate some financial statements and balance sheet to approve or deny a loan.
 
-![](https://media.giphy.com/media/xT5LMQ8rHYTDGFG07e/giphy.gif)
+
 
 In this project, a statistical model (credit score) will be developed using Logistic Regression.
 
+![](https://media.giphy.com/media/xT5LMQ8rHYTDGFG07e/giphy.gif)
