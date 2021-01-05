@@ -6,7 +6,7 @@ Customers' behavior from retail bank is completely different of wholesale bank.
 
 Whether a customer from retail bank asks some loan, the bank uses statistical models (credit score) to approve it or not. 
 
-![](https://tenor.com/view/laon-approve-aloan-homer-simpson-the-simpsons-gif-13765398)
+![](https://tenor.com/5VaI.gif)
 
 Doing some comparison, It looks like a assembly line from a factory that produce the same part millions of times per hour with the same qualities and standards. If a part is outside of standards it will be discharged.
 
