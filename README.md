@@ -16,4 +16,9 @@ In the other hand, customers from Wholesale Banks are Large Corporate or Middle 
 
 In this project, a statistical model (credit score) will be developed using Logistic Regression.
 
+# Exploratory Data Analysis (EDA)
+
+
+
+
 ![gif002](https://media.giphy.com/media/xT5LMQ8rHYTDGFG07e/giphy.gif)
