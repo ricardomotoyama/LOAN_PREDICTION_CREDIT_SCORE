@@ -6,7 +6,7 @@ Customers' behavior from retail bank is completely different of wholesale bank.
 
 Whether a customer from retail bank asks some loan, the bank uses statistical models (credit score) to approve it or not. 
 
-<img src="https://media1.tenor.com/images/54552c5f2ea273a0086079a396043128/tenor.gif?itemid=13765398" width="700" height="300">
+<img src="https://media1.tenor.com/images/54552c5f2ea273a0086079a396043128/tenor.gif?itemid=13765398" width="500" height="300">
 
 
 
