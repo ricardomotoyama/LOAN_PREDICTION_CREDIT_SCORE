@@ -32,7 +32,11 @@ Besides that there are some drafts about what kind of transformers (logarithm na
 
 There is a Jupyter Notebook with all pipelines from model's development. If you never heard about pipelines lets explain a little bit.
 
-Basically, Pipelines work like LEGO blocks. When you are doing EDA, you need to replace missing values or drop them, you need to do some transformations like logarithm natural on features, you need apply some scaler (StandardScaler, MinMaxScaler, RobustScaler) and you need some estimator. The next picture helps to understand it:
+Basically, Pipelines work like LEGO blocks. When you are doing EDA, you need to replace missing values or drop them, you need to do some transformations like logarithm natural on features, you need apply some scaler (StandardScaler, MinMaxScaler, RobustScaler) and you need some estimator. 
+
+There are some built-in transformers on Scikit-Learn but sometimes you need a specifc transformer but don't worry about it because you can build your custom transformers using the class TransformerMixin. In this project I used some custom transformers and they are on custom_transformers.py.
+
+The next picture helps to understand it:
 
 ![](https://iaml.it/blog/optimizing-sklearn-pipelines/images/pipeline-diagram.png)
 
