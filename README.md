@@ -21,11 +21,12 @@ In this project, a statistical model (credit score) will be developed using Logi
 
 There is a Jupyter Notebook with exploratory data analysis. 
 
-First analysis have done with an open source library called sweetviz. Sweetviz shows missing values, calculate skewness and kurtosis and do histograms and bar charts. 
+First analysis have done with an open source library called sweetviz. Sweetviz shows missing values, calculate skewness, kurtosis, does histograms and bar charts. It's a nice library to do some fast exploratory data analysis.
 
-After that, more complex analysis will be presented.
+After that, more complex analysis will be presented like boxplot with logarithm natural transformation versus feature without any kind of transforation, correlation matrix, creating new features and IQR to indentify outliers.
 
 Besides that there are some drafts about what kind of transformers (logarithm natural and dummy transformer) and scalers (robust scaler) will be used together into pipelines.
+
 
 
 ### Model with pipelines
@@ -51,8 +52,6 @@ Pipelines are used into model development because:
 3) It makes easier the deploy of the model.
 
 
-
-
-
+Now enjoy it!!
 
 ![gif002](https://media.giphy.com/media/xT5LMQ8rHYTDGFG07e/giphy.gif)
