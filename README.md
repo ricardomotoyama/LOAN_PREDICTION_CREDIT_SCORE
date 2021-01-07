@@ -19,7 +19,7 @@ In this project, a statistical model (credit score) will be developed using Logi
 
 ### Exploratory Data Analysis (EDA)
 
-There is a Jupyter Notebook with exploratory data analysis. 
+There is a Jupyter Notebook (EDA_V4.ipynb) with exploratory data analysis. 
 
 First analysis have done with an open source library called sweetviz. Sweetviz shows missing values, calculate skewness, kurtosis, does histograms and bar charts. It's a nice library to do some fast exploratory data analysis.
 
@@ -31,7 +31,7 @@ Besides that there are some drafts about what kind of transformers (logarithm na
 
 ### Model with pipelines
 
-There is a Jupyter Notebook with all pipelines from model's development. If you never heard about pipelines lets explain a little bit.
+There is a Jupyter Notebook (MODEL_PIPELINE_V0.ipynb) with all pipelines from model's development. If you never heard about pipelines lets explain a little bit.
 
 Basically, Pipelines work like LEGO blocks. When you are doing EDA, you need to replace missing values or drop them, you need to do some transformations like logarithm natural on features, you need apply some scaler (StandardScaler, MinMaxScaler, RobustScaler) and you need some estimator. 
 
