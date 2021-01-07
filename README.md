@@ -27,8 +27,6 @@ There is a Jupyter Notebook with exploratory data analysis.
 
 First analysis have done with an open source library called sweetviz. Sweetviz shows missing values, calculate skewness and kurtosis and do histograms and bar charts as you can see on the next picture. 
 
-SWEETVIZ_REPORT.html
-
 After that more complex analysis will be presented.
 
 besides that there are some drafts about what kind of transformers, scalers and 
